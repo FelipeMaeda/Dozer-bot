@@ -15,6 +15,9 @@ downloads/
 eggs/
 .eggs/
 lib/
+Scripts/
+Lib
+pyvenv.cfg
 lib64/
 parts/
 sdist/
